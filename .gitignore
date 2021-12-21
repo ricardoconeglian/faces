@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+venv
+db.sqlite3
+media
+__pycache__git
+static
+__pycache__
+Faces/faces
+Lib
